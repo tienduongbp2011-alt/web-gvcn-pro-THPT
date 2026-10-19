@@ -1,0 +1,6 @@
+{
+  "name": "CLASS PRO – Trợ Lý Giáo Viên Chủ Nhiệm",
+  "description": "Ứng dụng quản lý lớp học toàn diện dành cho giáo viên chủ nhiệm: hồ sơ học sinh, điểm danh, nề nếp thi đua, sơ đồ lớp, chia nhóm, sổ điểm, đổi quà và báo cáo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
